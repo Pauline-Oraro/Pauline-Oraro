@@ -26,12 +26,5 @@ I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, wit
 
 ---
 
-## 📫 Let's Connect  
-- **Portfolio:** [https://pauline-oraro-portfolio.netlify.app/](https://pauline-oraro-portfolio.netlify.app/)
-- **LinkedIn:** [https://linkedin.com/in/pauline-oraro](https://www.linkedin.com/in/pauline-oraro-0a2381274/)  
-- **GitHub:** [https://github.com/Pauline-Oraro](https://github.com/paulineoraro)  
-
----
-
 ⭐️ *Feel free to explore my repositories and collaborate on exciting projects!*  
 
