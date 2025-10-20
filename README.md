@@ -1,12 +1,12 @@
 # Hi, I'm Pauline Oraro 👋  
-### Full Stack Web Developer | React| Nextjs | Typescript | Nodejs | MongoDB  
+### Full Stack Web Developer | React| Nextjs | Typescript | Nodejs | MongoDB | Postgresql
 
 I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, with experience in building modern, scalable, and user-friendly web applications. I love crafting clean code, seamless user experiences, and innovative digital solutions.  
 
 ---
 
 ## 🚀 About Me  
-- 🌐 I specialize in **Frontend** (React, Nextjs, TypeScript, TailwindCSS) and **Backend** (Node.js, Express, MongoDB).  
+- 🌐 I specialize in **Frontend** (React, Nextjs, TypeScript, TailwindCSS) and **Backend** (Node.js, Express, MongoDB, Postgresql).  
 - 🎨 I focus on **responsive design, performance optimization, and clean UI/UX**.  
 - 🔗 I integrate **APIs, databases, and third-party services** for dynamic web applications.  
 - 📈 Currently exploring **DevOps & Cloud deployment** for scalable solutions.  
@@ -24,6 +24,8 @@ I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, wit
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
