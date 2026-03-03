@@ -30,8 +30,9 @@ I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, wit
 ---
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pauline-Oraro&theme=travelers-theme&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pauline-Oraro&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Pauline-Oraro&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pauline-Oraro&layout=compact&theme=radical)
 
 ---
 ⭐️ *Feel free to explore my repositories and collaborate on exciting projects!*  
