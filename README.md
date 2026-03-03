@@ -35,7 +35,6 @@ I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, wit
 
 ---
 
----
 
 ### Github stats
 
@@ -43,7 +42,6 @@ I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, wit
 
 ---
 
----
 
 ### Github streaks
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Pauline-Oraro&theme=radical)
