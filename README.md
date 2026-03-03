@@ -29,10 +29,25 @@ I’m a passionate **Full Stack Web Developer** based in **Nairobi, Kenya**, wit
 
 ---
 
+### Most used languages
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pauline-Oraro&layout=compact&theme=radical)
+
+---
+
+---
+
+### Github stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pauline-Oraro&show_icons=true&theme=radical)
+
+---
+
+---
+
+### Github streaks
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Pauline-Oraro&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pauline-Oraro&layout=compact&theme=radical)
+
 
 ---
 ⭐️ *Feel free to explore my repositories and collaborate on exciting projects!*  
